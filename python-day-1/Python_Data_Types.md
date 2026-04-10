@@ -32,7 +32,7 @@ Python-এর built-in types broadly এভাবে ভাগ করা যা�
 * **Binary types**
 * **Boolean**
 * **NoneType**
-  এগুলোর বাইরেও classes, instances, exceptions ইত্যাদি type hierarchy-এর অংশ। ([Python documentation][1])
+  এগুলোর বাইরেও classes, instances, exceptions ইত্যাদি type hierarchy-এর অংশ।
 
 ---
 
