@@ -1,5 +1,3 @@
-নিচে **Python all data types** নিয়ে একটা **documentation-style note** দিলাম। এটা আমি Python-এর official documentation ধরে সাজিয়েছি। Python-এর principal built-in types-এর মধ্যে আছে numeric types, sequence types, mapping types, set types, binary types, আর special singleton values like `None`; এছাড়া truth-value testing, string conversion, equality comparison ইত্যাদি প্রায় সব object-এ কাজ করে। ([Python documentation][1])
-
 # Python Data Types — Full Notes
 
 ## 1) Data type কী?
